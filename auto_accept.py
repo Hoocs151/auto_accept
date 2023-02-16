@@ -66,4 +66,4 @@ if __name__ == '__main__':
     try:
         run()
     except Exception as e:
-        print(Fore.RED + "An error occurred: " + str(e) + Style.RESET_ALL)
+        print(Fore.RED + "[ ! ] An error occurred: " + str(e) + Style.RESET_ALL)
