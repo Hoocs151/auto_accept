@@ -5,7 +5,6 @@ from colorama import init, Fore, Style
 # Initialize colorama
 init()
 
-# Constants
 acceptButtonImg = './sample.png'
 acceptedButtonImg = './sample-accepted.png'
 playButtonImg = './play-button.png'
